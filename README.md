@@ -47,19 +47,17 @@
        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
      </a>
    
-     <!-- LinkedIn button -->
      <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/karina-kalicka-molin-52193a280/)" target="_blank" rel="noopener noreferrer">
        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
      </a>
    </div>
-   
+   <!--
+<br clear="both">
+<img src="https://raw.githubusercontent.com/KarinaKKarinaK/KarinaKKarinaK/output/snake.svg" alt="Snake animation" />
+###
+   -->
    
    ###
 </div>
 
-<!--
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/KarinaKKarinaK/KarinaKKarinaK/output/snake.svg" alt="Snake animation" />
-###
--->
