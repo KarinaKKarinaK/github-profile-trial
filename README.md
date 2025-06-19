@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karina, I'm from Warsaw, Poland 🇵🇱, currently in Amsterdam, Netheralnds 🇳🇱.</h2>
 
-###
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -29,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo" />
   <img width="12" />
